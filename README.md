@@ -1,5 +1,5 @@
 # Handwritten Digit Recognition
-###### Amitrajit Bose
+###### Daniel Benedict
 ---------------------------
 ![Cover](https://cdn-images-1.medium.com/max/800/1*jlxdirCP5Qre1pcoNC-7JQ.png)
 
@@ -10,4 +10,4 @@ The model achieved an accuracy over 97% tested on `10000` images. It's built fro
 
 ![Output](https://cdn-images-1.medium.com/max/800/1*eZifJcHLHfzsy1Bo9udi0g.png)
 
-For queries, feel free to drop a message on [LinkedIn](https://www.linkedin.com/in/amitrajitbose/).
+
